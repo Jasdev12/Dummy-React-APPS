@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>I am from Allur</p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -16,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React by Jashu
+          
         </a>
       </header>
     </div>
